@@ -5,5 +5,6 @@ mayu.AI is Speech recognition AI.
 ***CPU*** : Intel Core i5-6600K/AMD Ryzen5 1600 or better  
 ***MEM*** : 8GB RAM  
 ***Storage*** : SSD(SATA3 or better) recommend
+***Network*** : Broadband Internet access
   
 (c)mayu___cs 2019
