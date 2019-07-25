@@ -1,0 +1,10 @@
+E:\Dev\GitHub\mayu.AI3\mayu.AI3\mayu.AI3\obj\Debug\mayu.AI3.csprojAssemblyReference.cache
+E:\Dev\GitHub\mayu.AI3\mayu.AI3\mayu.AI3\obj\Debug\mayu.AI3.main.resources
+E:\Dev\GitHub\mayu.AI3\mayu.AI3\mayu.AI3\obj\Debug\mayu.AI3.csproj.GenerateResource.cache
+E:\Dev\GitHub\mayu.AI3\mayu.AI3\mayu.AI3\bin\Debug\mayu.AI3.exe.config
+E:\Dev\GitHub\mayu.AI3\mayu.AI3\mayu.AI3\bin\Debug\mayu.AI3.exe
+E:\Dev\GitHub\mayu.AI3\mayu.AI3\mayu.AI3\bin\Debug\mayu.AI3.pdb
+E:\Dev\GitHub\mayu.AI3\mayu.AI3\mayu.AI3\obj\Debug\mayu.AI3.Properties.Resources.resources
+E:\Dev\GitHub\mayu.AI3\mayu.AI3\mayu.AI3\obj\Debug\mayu.AI3.csproj.CoreCompileInputs.cache
+E:\Dev\GitHub\mayu.AI3\mayu.AI3\mayu.AI3\obj\Debug\mayu.AI3.exe
+E:\Dev\GitHub\mayu.AI3\mayu.AI3\mayu.AI3\obj\Debug\mayu.AI3.pdb
