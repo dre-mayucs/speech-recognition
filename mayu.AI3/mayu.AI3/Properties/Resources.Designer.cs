@@ -70,7 +70,7 @@ namespace mayu.AI3.Properties {
         }
         
         /// <summary>
-        ///   Twitter開いて,https://twitter.com,Facebook開いて,https://ja-jp.facebook.com,Qiita開いて,https://qiita.com,Haoいーあるさん開いて,http://jp.hao123.com,amazon開いて,https://www.amazon.co.jp,Discord開いて,https://discordapp.com に類似しているローカライズされた文字列を検索します。
+        ///   Twitter開いて,Facebook開いて,Qiita開いて,Haoいーあるさん開いて,amazon開いて,Discord開いて,Instagram開いて,質問箱開いて,YouTube開いて,Pinterest開いて|https://twitter.com,https://ja-jp.facebook.com,https://qiita.com,http://jp.hao123.com,https://www.amazon.co.jp,https://discordapp.com,https://www.instagram.com/?hl=ja,https://peing.net/ja,https://www.youtube.com,https://www.pinterest.jp に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string SNS {
             get {
