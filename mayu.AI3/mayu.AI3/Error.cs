@@ -16,6 +16,8 @@ namespace mayu.AI3
                     break;
                 case "E:103": EMsg = "アプリケーションが破損しています";
                     break;
+                case "E:201": EMsg = "解析データが破損しているかアプリケーションが破損しています";
+                    break;
             }
             DialogResult result = MessageBox.Show(EMsg, Code, MessageBoxButtons.RetryCancel, MessageBoxIcon.Error);
             if (result == DialogResult.Retry) { Application.Restart(); }
