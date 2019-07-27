@@ -61,11 +61,20 @@ namespace mayu.AI3.Properties {
         }
         
         /// <summary>
-        ///   System に類似しているローカライズされた文字列を検索します。
+        ///   Shutdown now,Reboot now,Application exit,Application restart,Day mode,Night mode に類似しているローカライズされた文字列を検索します。
         /// </summary>
         internal static string Commands {
             get {
                 return ResourceManager.GetString("Commands", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Twitter開いて,https://twitter.com,Facebook開いて,https://ja-jp.facebook.com,Qiita開いて,https://qiita.com,Haoいーあるさん開いて,http://jp.hao123.com,amazon開いて,https://www.amazon.co.jp,Discord開いて,https://discordapp.com に類似しているローカライズされた文字列を検索します。
+        /// </summary>
+        internal static string SNS {
+            get {
+                return ResourceManager.GetString("SNS", resourceCulture);
             }
         }
     }

@@ -2,6 +2,7 @@
 using System.Drawing;
 using System.Diagnostics;
 using System.Windows.Forms;
+using System.Linq;
 using System.Speech.Recognition;
 using System.Speech.Synthesis;
 
@@ -11,17 +12,18 @@ namespace mayu.AI3
     {
         //初期化
         public main() => InitializeComponent();
-
         /// <summary>
         /// 学習データとコマンド用変数
         /// <param name="EMsg">AMN</param>
         /// <param name="Commands">システムコマンド用定数</param>
+        /// <param name="=SNS">ダイレクトリンクと呼び出し用キャッシュ</param>
         /// <param name="LData">学習データ用変数(cache)</param>
         /// <param name="Engine">音声認識エンジン</param>
         /// </summary>
         /// 
-        private readonly string EMsg = "mayu.AI3: ";
-        string[] Commands = Properties.Resources.Commands.Split(',');
+        private const string EMsg = "mayu.AI3: ";
+        private readonly string[] Commands = Properties.Resources.Commands.Split(',');
+        private string[] SNSCache = Properties.Resources.SNS.Split('|');
         private SpeechRecognitionEngine Engine;
 
         private void Main_Load(object sender, EventArgs e)
@@ -61,8 +63,8 @@ namespace mayu.AI3
                 Engine = new SpeechRecognitionEngine();
                 Engine.SetInputToDefaultAudioDevice();
 
-                //学習データとコマンドデータの読み込み
-                var choices = new Choices(Commands);
+                var Cache = Commands.Concat(SNSCache[0].Split(',')).ToArray();
+                var choices = new Choices(Cache);
                 var GBuilder = new GrammarBuilder();
                 GBuilder.Append(choices);
 
@@ -76,7 +78,8 @@ namespace mayu.AI3
                 Engine.SpeechRecognized += Engie_Recognized;
                 SystemBox.Text += EMsg + DateTime.Now + "Ready :D" + Environment.NewLine;
 
-                //強制GC
+                //メモリ解放
+                Cache = null;
                 GC.Collect();
             }
             catch
@@ -88,9 +91,9 @@ namespace mayu.AI3
 
         /// <summary>
         /// <param name="Voice">自然言語音声出力関数</param>
-        /// </summary>
         /// <param name="sender"></param>
-        /// <param name="e"></param>
+        /// <param name="e">イベント</param>
+        /// </summary>
         private void Engie_Recognized(object sender, SpeechRecognizedEventArgs e)
         {
             try
@@ -110,6 +113,11 @@ namespace mayu.AI3
                     for (int i = 0; i < Commands.Length; i++)
                         if (e.Result.Text == Commands[i]) { cmd(Commands[i]); }
 
+                    //SNSダイレクトリンク
+                    string[] SNSName = SNSCache[0].Split(',');
+                    for (int i = 0; i < SNSName.Length; i++)
+                        if (e.Result.Text == SNSName[i]) { Voice.Speak(DLink(e.Result.Text, i)); }
+
                     //ニューラルネットワーク処理
                     //だるいからまた今度実装する
                 }
@@ -119,6 +127,8 @@ namespace mayu.AI3
                 SystemBox.SelectionStart = SystemBox.Text.Length;
                 SystemBox.Focus();
                 SystemBox.ScrollToCaret();
+
+                //メモリ解放
                 GC.Collect();
             }
             catch
@@ -128,6 +138,7 @@ namespace mayu.AI3
             }
         }
 
+        //コマンドを実行する、コマンドー...w
         private void cmd(string content)
         {
             switch (content)
@@ -145,6 +156,14 @@ namespace mayu.AI3
                 case "Night mode":NightColor();
                     break;
             }
+        }
+
+        //ダイレクトリンク踏んで、Die...w
+        private string DLink(string Service, int List)
+        {
+            var Link = SNSCache[1].Split(',');
+            Process.Start(Link[List]);
+            return Service.Replace("開いて","") + "開くよ!";
         }
 
         //OS Shutdown
