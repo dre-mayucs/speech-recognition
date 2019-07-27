@@ -155,6 +155,8 @@ namespace mayu.AI3
                     break;
                 case "Night mode":NightColor();
                     break;
+                case "Wave": new GW().ShowDialog();
+                    break;
             }
         }
 

@@ -1,1 +1,1 @@
-Shutdown now,Reboot now,Application exit,Application restart,Day mode,Night mode
+Shutdown now,Reboot now,Application exit,Application restart,Day mode,Night mode,Wave

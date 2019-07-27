@@ -8,3 +8,6 @@ E:\Dev\GitHub\mayu.AI3\mayu.AI3\mayu.AI3\obj\Debug\mayu.AI3.Properties.Resources
 E:\Dev\GitHub\mayu.AI3\mayu.AI3\mayu.AI3\obj\Debug\mayu.AI3.csproj.CoreCompileInputs.cache
 E:\Dev\GitHub\mayu.AI3\mayu.AI3\mayu.AI3\obj\Debug\mayu.AI3.exe
 E:\Dev\GitHub\mayu.AI3\mayu.AI3\mayu.AI3\obj\Debug\mayu.AI3.pdb
+E:\Dev\GitHub\mayu.AI3\mayu.AI3\mayu.AI3\bin\Debug\LibNMeCab.dll
+E:\Dev\GitHub\mayu.AI3\mayu.AI3\mayu.AI3\obj\Debug\mayu.AI3.GW.resources
+E:\Dev\GitHub\mayu.AI3\mayu.AI3\mayu.AI3\obj\Debug\mayu.AI3.csproj.CopyComplete
