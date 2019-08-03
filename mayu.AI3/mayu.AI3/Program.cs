@@ -17,7 +17,15 @@ namespace mayu.AI3
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new main());
+
+            main Window = new main();
+            Window.Show();
+
+            while (Window.Created)
+            {
+                Window.Graphics();
+                Application.DoEvents();
+            }
         }
     }
 }
