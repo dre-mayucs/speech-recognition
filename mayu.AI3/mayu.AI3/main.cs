@@ -314,7 +314,7 @@ namespace mayu.AI3
         /// マウス追従-移動
         /// </summary>
         /// <param name="sender"></param>
-        /// <param name="e"></param>
+        /// <param name="e"></param>    
         //
         #region マウス移動処理
         private void Main_MouseDown(object sender, MouseEventArgs e)

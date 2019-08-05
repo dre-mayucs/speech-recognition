@@ -11,7 +11,7 @@ namespace mayu.AI3
         {
             try
             {
-                param.DicDir = @"E:\Dev\GitHub\mayu.AI3\mayu.AI3\mayu.AI3\dic\ipadic";
+                param.DicDir = "dic/ipadic";
                 MeCabTagger tagger = MeCabTagger.Create(param);
                 MeCabNode node = tagger.ParseToNode(Content);
 
