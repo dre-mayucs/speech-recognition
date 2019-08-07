@@ -243,7 +243,7 @@ namespace mayu.AI3
                     break;
                 case "Application restart":AppRestart();
                     break;
-                case "Wave": new GW().ShowDialog();
+                case "Graphic wave tool": new GW().ShowDialog();
                     break;
             }
         }
