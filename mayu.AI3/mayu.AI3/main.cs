@@ -53,7 +53,7 @@ namespace mayu.AI3
             DX.SetDrawScreen(DX.DX_SCREEN_BACK);
 
             //モデルデータ読み込み
-            pmxmodel = DX.MV1LoadModel("3DData/Pino.pmx");
+            pmxmodel = DX.MV1LoadModel("3Dtama/Pino.pmx");
 
             //vmdモーションデータ読み込み
             Index = DX.MV1AttachAnim(pmxmodel, 0, -1, DX.FALSE);
@@ -162,7 +162,7 @@ namespace mayu.AI3
         /// <summary>
         /// <param name="Engie_Recognized">音声認識イベントハンドラ</param>
         /// </summary>
-        private void Start_Engine()
+        public void Start_Engine()
         {
             try
             {
@@ -170,7 +170,11 @@ namespace mayu.AI3
                 Engine = new SpeechRecognitionEngine();
                 Engine.SetInputToDefaultAudioDevice();
 
-                var Cache = Commands.Concat(SNSCache[0].Split(',')).ToArray();
+                var SNSLinkCache = SNSCache[0].Split(',');
+                for (int i = 0; i < SNSLinkCache.Length; i++)
+                    SNSLinkCache[i] += "開いて";
+
+                var Cache = Commands.Concat(SNSLinkCache).ToArray();
                 var choices = new Choices(Cache);
                 var GBuilder = new GrammarBuilder();
                 GBuilder.Append(choices);
@@ -183,9 +187,6 @@ namespace mayu.AI3
 
                 //イベントハンドラ
                 Engine.SpeechRecognized += Engie_Recognized;
-
-                //メモリ解放
-                Cache = null;
             }
             catch
             {
@@ -201,19 +202,21 @@ namespace mayu.AI3
         /// </summary>
         private void Engie_Recognized(object sender, SpeechRecognizedEventArgs e)
         {
+            var SNSLinkCache = SNSCache[0].Split(',');
+            for (int i = 0; i < SNSLinkCache.Length; i++)
+                SNSLinkCache[i] += "開いて";
             try
             {
                 //認識率30%以上で実行
-                if (e.Result.Confidence >= 0.3000000)
+                if (e.Result.Confidence >= 0.300000)
                 {
                     //コマンド処理
                     for (int i = 0; i < Commands.Length; i++)
                         if (e.Result.Text == Commands[i]) { cmd(Commands[i]); }
 
                     //SNSダイレクトリンク
-                    string[] SNSName = SNSCache[0].Split(',');
-                    for (int i = 0; i < SNSName.Length; i++)
-                        if (e.Result.Text == SNSName[i]) { DLink(i); }
+                    for (int i = 0; i < SNSLinkCache.Length; i++)
+                        if (e.Result.Text == SNSLinkCache[i]) { DLink(i); }
 
                     //ニューラルネットワーク処理
                     //だるいからまた今度実装する
