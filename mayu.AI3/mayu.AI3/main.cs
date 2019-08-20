@@ -170,6 +170,7 @@ namespace mayu.AI3
                 Engine = new SpeechRecognitionEngine();
                 Engine.SetInputToDefaultAudioDevice();
 
+                //ダイレクトリンク
                 var SNSLinkCache = SNSCache[0].Split(',');
                 for (int i = 0; i < SNSLinkCache.Length; i++)
                     SNSLinkCache[i] += "開いて";
@@ -217,9 +218,6 @@ namespace mayu.AI3
                     //SNSダイレクトリンク
                     for (int i = 0; i < SNSLinkCache.Length; i++)
                         if (e.Result.Text == SNSLinkCache[i]) { DLink(i); }
-
-                    //ニューラルネットワーク処理
-                    //だるいからまた今度実装する
                 }
                 //メモリ解放
                 GC.Collect();
