@@ -5,6 +5,7 @@ using System.Windows.Forms;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Speech.Recognition;
+using System.Speech.Synthesis;
 using DxLibDLL;
 
 namespace mayu.AI3
@@ -53,7 +54,7 @@ namespace mayu.AI3
             DX.SetDrawScreen(DX.DX_SCREEN_BACK);
 
             //モデルデータ読み込み
-            pmxmodel = DX.MV1LoadModel("3Dtama/Pino.pmx");
+            pmxmodel = DX.MV1LoadModel("3DData/Pino.pmx");
 
             //vmdモーションデータ読み込み
             Index = DX.MV1AttachAnim(pmxmodel, 0, -1, DX.FALSE);
@@ -236,7 +237,7 @@ namespace mayu.AI3
         {
             switch (content)
             {
-                case "Shutdown now":Shutdown();
+                case "OS Shutdown":Shutdown();
                     break;
                 case "Reboot now":Reboot();
                     break;
@@ -245,6 +246,13 @@ namespace mayu.AI3
                 case "Application restart":AppRestart();
                     break;
                 case "Graphic wave tool": new GW().ShowDialog();
+                    break;
+
+                default:
+                    var voice = new SpeechSynthesizer();
+                    var rem = new Remark();
+                    string data = rem.GetWeather(content);
+                    voice.Speak("今日の天気は" + data + "です");
                     break;
             }
         }
@@ -351,11 +359,6 @@ namespace mayu.AI3
             }
         }
         #endregion
-
-        /// <summary>
-        /// フォームの色設定
-        /// </summary>
-        /// 
 
         #region フォーム最期処理
         //フォームが閉じられるときにDXライブラリを終了

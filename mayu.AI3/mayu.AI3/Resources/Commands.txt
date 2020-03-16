@@ -1,1 +1,1 @@
-Shutdown now,Reboot now,Application exit,Application restart,graphic wave tool
+OS Shutdown,Reboot now,Application exit,Application restart,graphic wave tool,北海道の天気,青森の天気,岩手の天気,宮城の天気,秋田の天気,山形の天気,福島の天気,茨城の天気,栃木の天気,群馬の天気,埼玉の天気,千葉の天気,東京の天気,神奈川の天気,新潟の天気,富山の天気,石川の天気,福井の天気,山梨の天気,長野の天気,岐阜の天気,静岡の天気,愛知の天気,三重の天気,滋賀の天気,京都の天気,大阪の天気,兵庫の天気,奈良の天気,和歌山の天気,鳥取の天気,島根の天気,岡山の天気,広島の天気,山口の天気,徳島の天気,香川の天気,愛媛の天気,高知の天気,福岡の天気,佐賀の天気,長崎の天気,熊本の天気,大分の天気,宮崎の天気,鹿児島の天気,沖縄の天気

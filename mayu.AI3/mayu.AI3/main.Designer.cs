@@ -31,6 +31,7 @@ namespace mayu.AI3
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(main));
             this.ResetButton = new System.Windows.Forms.Button();
             this.RestrictionCheck = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
@@ -67,6 +68,7 @@ namespace mayu.AI3
             this.ClientSize = new System.Drawing.Size(394, 520);
             this.Controls.Add(this.RestrictionCheck);
             this.Controls.Add(this.ResetButton);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "main";
             this.Text = "Form1";
             this.TopMost = true;

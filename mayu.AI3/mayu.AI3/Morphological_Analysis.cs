@@ -9,7 +9,7 @@ namespace mayu.AI3
         private string[] data;
         public string[] Analysis(string Content)
         {
-            try
+           try
             {
                 param.DicDir = "dic/ipadic";
                 MeCabTagger tagger = MeCabTagger.Create(param);

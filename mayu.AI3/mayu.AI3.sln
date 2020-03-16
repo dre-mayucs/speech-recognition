@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.29102.190
+VisualStudioVersion = 16.0.29009.5
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mayu.AI3", "mayu.AI3\mayu.AI3.csproj", "{978A3BE5-FDB9-4BCD-9517-37047B982789}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "mayu.AI3 Installer", "mayu.AI3 Installer\mayu.AI3 Installer.vdproj", "{D6785959-1FD5-4194-8A1C-79025E826B6E}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Mayu.AI3 Installer", "Mayu.AI3 Installer\Mayu.AI3 Installer.vdproj", "{5C5496DB-30B6-4B23-B5AD-2F89A2C56F7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,8 +17,8 @@ Global
 		{978A3BE5-FDB9-4BCD-9517-37047B982789}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{978A3BE5-FDB9-4BCD-9517-37047B982789}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{978A3BE5-FDB9-4BCD-9517-37047B982789}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D6785959-1FD5-4194-8A1C-79025E826B6E}.Debug|Any CPU.ActiveCfg = Debug
-		{D6785959-1FD5-4194-8A1C-79025E826B6E}.Release|Any CPU.ActiveCfg = Release
+		{5C5496DB-30B6-4B23-B5AD-2F89A2C56F7C}.Debug|Any CPU.ActiveCfg = Debug
+		{5C5496DB-30B6-4B23-B5AD-2F89A2C56F7C}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,7 +3,7 @@
 "VSVersion" = "3:800"
 "ProjectType" = "8:{978C614F-708E-4E1A-B201-565925725DBA}"
 "IsWebType" = "8:FALSE"
-"ProjectName" = "8:mayu.AI3 Installer"
+"ProjectName" = "8:Mayu.AI3 Installer"
 "LanguageId" = "3:1041"
 "CodePage" = "3:932"
 "UILanguageId" = "3:1041"
@@ -15,362 +15,62 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_05EA9271E1AA44DAAAD74460DF337E94"
+        "MsmKey" = "8:_0082AD6B92CBB061D1288D2C4545F59F"
+        "OwnerKey" = "8:_38BFE1B7EEA74878B295DF150CCDE4B8"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_1220E9964332E42862152B3573A30CC9"
+        "OwnerKey" = "8:_38BFE1B7EEA74878B295DF150CCDE4B8"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2BB5E37BBBB89870F346DBAF2B8F9198"
+        "OwnerKey" = "8:_38BFE1B7EEA74878B295DF150CCDE4B8"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_38BFE1B7EEA74878B295DF150CCDE4B8"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_07E4768AC7EA495E966A1149A7777777"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_1034202538D341E0830491FC26F6E91B"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_1156EEA92A414C429DF2F7824E2BF7AD"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_147142E4531A4545B4EFEF4AF5DC8F38"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_176D446C5F9545D39CB3261F27EE15B1"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_1A17CA77547E43D9A8F894D5119099EC"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_1B9E3A8BF8134AB1AC739D8FB9B6AEBA"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_1BB0C25028254380BBC515EFEE04200D"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_1DF3F319EFF8484B9D3B3121500DF257"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_2396C7B254114239A5F5D5B80524D54C"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_29807F63C4974242A0F3C02FFC0C3F82"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_2A4E4F65DFB24229BE327078D8C8175D"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_2BD957B70D1C4C41A45330869A6FD7E4"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_2C9DEDE00FB54144A26A5F4F56BE5D03"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_2DC5D308A6589821F8B75D6DD1DB6797"
-        "OwnerKey" = "8:_85339EA306A849C4B5F54EF9BB461884"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_2F0D33C27CE046AB87E01EE566525EDC"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_343B29DBF3F24D9AAB629F80F1E92016"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_3867645A7AB046FD81E5D67712B0BB51"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_431526D5FD0D4C80B9F0DCC8276CCE57"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_47B3644CC45640D1BC27E08B28806B7A"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_49A05934DAD941FC87CCC6F9FE760B60"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_4A54AB686B214A9BA90A39BB5C0C5F91"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_4CF19A7BCE890DBC72E67DA2706EA967"
-        "OwnerKey" = "8:_85339EA306A849C4B5F54EF9BB461884"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_4F61C8DBD51349CE9E352C4BC076DCB8"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_5A87BEE68B8F4AE1A06C583E98AEB8D5"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_5F03EC8AC7D0410D9C3321412166E003"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_60275C61CF234A4B9E0606D237E2D4E6"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_7455C37ECF484FD8A67AC37B7C5B62AD"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_7625E9B688D64D8FAE016E7A4ACB005C"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_827581BA812D4EC0906C27C73E7716B1"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_83CF2104FB074A21843295CFE5DA2EA2"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_85339EA306A849C4B5F54EF9BB461884"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_8F9C22247F494EA3A6540B113826C90C"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_95BFBDF083444023A9072A8BA829675B"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_99282F0AEFE64049A36C5B4256D66E63"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_996BF08EBCEE46398B16FC0781ECE037"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_B0BDB48A507F479C9DB47251CBC7784B"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_B6CE15B38986452A9A1D1B465CF208C4"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_C29F5220227749F688F18DE7ABC9C1E6"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_C5443EEA5B404ABB945216D67BCA01C8"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_C8F6EB9D43964659AD5BC814DBE496A3"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_CAA845D480A5440894D78F30801E9DC6"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_CF002853FE4A4A1294560D8EDA3D7074"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_CF340B94B6614620849025FC1D944B84"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_D90DAFC763464C7DAB2F00DC4BF8355D"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_DA4DB4122D4A49FEA8EB4DF72644538F"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_DAF1311098CD4F0781162E62C807164F"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_E2AC086AB3233041B55DA3B0AE05C9AD"
-        "OwnerKey" = "8:_85339EA306A849C4B5F54EF9BB461884"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_E426052B324F41F39B92B388F8A26ABF"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_E80248F81A0C47C58FFB446899D71911"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_E8CC14308DEC468AB7759B3EAE50E67B"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_ED2B9C7A2261477FAB78B9F8DD39EB01"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_EF842C3E5271441EAC09D5F7BD26AA3F"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_F070EB0A99FB4BC289E7B90353FCE93A"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_FBD12B5AE053444FBC3AF1A1B3805CD2"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_70B4558FC128939127784CF07874FAFE"
+        "OwnerKey" = "8:_38BFE1B7EEA74878B295DF150CCDE4B8"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_85339EA306A849C4B5F54EF9BB461884"
+        "OwnerKey" = "8:_0082AD6B92CBB061D1288D2C4545F59F"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_4CF19A7BCE890DBC72E67DA2706EA967"
+        "OwnerKey" = "8:_38BFE1B7EEA74878B295DF150CCDE4B8"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_2DC5D308A6589821F8B75D6DD1DB6797"
+        "OwnerKey" = "8:_1220E9964332E42862152B3573A30CC9"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_E2AC086AB3233041B55DA3B0AE05C9AD"
+        "OwnerKey" = "8:_70B4558FC128939127784CF07874FAFE"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_2BB5E37BBBB89870F346DBAF2B8F9198"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -381,7 +81,7 @@
         "DisplayName" = "8:Debug"
         "IsDebugOnly" = "11:TRUE"
         "IsReleaseOnly" = "11:FALSE"
-        "OutputFilename" = "8:Debug\\mayu.AI3 Installer.msi"
+        "OutputFilename" = "8:Debug\\Mayu.AI3 Installer.msi"
         "PackageFilesAs" = "3:2"
         "PackageFileSize" = "3:-2147483648"
         "CabType" = "3:1"
@@ -391,21 +91,13 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
-            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
-            {
-            "Enabled" = "11:TRUE"
-            "PromptEnabled" = "11:TRUE"
-            "PrerequisitesLocation" = "2:1"
-            "Url" = "8:"
-            "ComponentsUrl" = "8:"
-            }
         }
         "Release"
         {
         "DisplayName" = "8:Release"
         "IsDebugOnly" = "11:FALSE"
         "IsReleaseOnly" = "11:TRUE"
-        "OutputFilename" = "8:Release\\mayu.AI3 Installer.msi"
+        "OutputFilename" = "8:Release\\Mayu.AI3 Installer.msi"
         "PackageFilesAs" = "3:2"
         "PackageFileSize" = "3:-2147483648"
         "CabType" = "3:1"
@@ -415,14 +107,6 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
-            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
-            {
-            "Enabled" = "11:TRUE"
-            "PromptEnabled" = "11:TRUE"
-            "PrerequisitesLocation" = "2:1"
-            "Url" = "8:"
-            "ComponentsUrl" = "8:"
-            }
         }
     }
     "Deployable"
@@ -440,7 +124,7 @@
         {
             "LaunchCondition"
             {
-                "{A06ECF26-33A3-4562-8140-9B0E340D4F24}:_8F51E33C63B9468BB2F01095AF6E3856"
+                "{A06ECF26-33A3-4562-8140-9B0E340D4F24}:_97099E818ECE48A3800AE80715F12F6A"
                 {
                 "Name" = "8:.NET Framework"
                 "Message" = "8:[VSDNETMSG]"
@@ -452,976 +136,14 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_05EA9271E1AA44DAAAD74460DF337E94"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\toonmap_02_head.bmp"
-            "TargetName" = "8:toonmap_02_head.bmp"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_07E4768AC7EA495E966A1149A7777777"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\tex_VT_head_base.tga"
-            "TargetName" = "8:tex_VT_head_base.tga"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1034202538D341E0830491FC26F6E91B"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\toonmap_01.bmp"
-            "TargetName" = "8:toonmap_01.bmp"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1156EEA92A414C429DF2F7824E2BF7AD"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\roki.vmd"
-            "TargetName" = "8:roki.vmd"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_147142E4531A4545B4EFEF4AF5DC8F38"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\tex_pino_sox.tga"
-            "TargetName" = "8:tex_pino_sox.tga"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_176D446C5F9545D39CB3261F27EE15B1"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\tex_pino_hat.png"
-            "TargetName" = "8:tex_pino_hat.png"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1A17CA77547E43D9A8F894D5119099EC"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\Pino000.vmd"
-            "TargetName" = "8:Pino000.vmd"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1B9E3A8BF8134AB1AC739D8FB9B6AEBA"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\dic\\ipadic\\sys.dic"
-            "TargetName" = "8:sys.dic"
-            "Tag" = "8:"
-            "Folder" = "8:_3F1BD6DEF782444C87BCC6ABCA7A87E3"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1BB0C25028254380BBC515EFEE04200D"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\dic\\ipadic\\char.bin"
-            "TargetName" = "8:char.bin"
-            "Tag" = "8:"
-            "Folder" = "8:_3F1BD6DEF782444C87BCC6ABCA7A87E3"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1DF3F319EFF8484B9D3B3121500DF257"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\tex_VT_body_all.png"
-            "TargetName" = "8:tex_VT_body_all.png"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2396C7B254114239A5F5D5B80524D54C"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\tex_VT_eyehole.png"
-            "TargetName" = "8:tex_VT_eyehole.png"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_29807F63C4974242A0F3C02FFC0C3F82"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\toonmap_pink.bmp"
-            "TargetName" = "8:toonmap_pink.bmp"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2A4E4F65DFB24229BE327078D8C8175D"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\normal_texture\\通常下着テクスチャ　上書き用.txt"
-            "TargetName" = "8:通常下着テクスチャ　上書き用.txt"
-            "Tag" = "8:"
-            "Folder" = "8:_C68EC742BF4742A886756A42C12B0132"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2BD957B70D1C4C41A45330869A6FD7E4"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\normal_texture\\tex_VT_body_all.png"
-            "TargetName" = "8:tex_VT_body_all.png"
-            "Tag" = "8:"
-            "Folder" = "8:_C68EC742BF4742A886756A42C12B0132"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2C9DEDE00FB54144A26A5F4F56BE5D03"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\sphere_map_01.bmp"
-            "TargetName" = "8:sphere_map_01.bmp"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_2DC5D308A6589821F8B75D6DD1DB6797"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:DxLibDotNet, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_2DC5D308A6589821F8B75D6DD1DB6797"
-                    {
-                    "Name" = "8:DxLibDotNet.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:DxLibDotNet.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_6262789C3DA2456FBB22F41E852B8CC0"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2F0D33C27CE046AB87E01EE566525EDC"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\sphere_map_07.bmp"
-            "TargetName" = "8:sphere_map_07.bmp"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_343B29DBF3F24D9AAB629F80F1E92016"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\tex_VT_eye_R2.png"
-            "TargetName" = "8:tex_VT_eye_R2.png"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3867645A7AB046FD81E5D67712B0BB51"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\tex_VT_eye_L2.png"
-            "TargetName" = "8:tex_VT_eye_L2.png"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_431526D5FD0D4C80B9F0DCC8276CCE57"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\toonmap_eye.bmp"
-            "TargetName" = "8:toonmap_eye.bmp"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_47B3644CC45640D1BC27E08B28806B7A"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\tex_VT_eye_L4.png"
-            "TargetName" = "8:tex_VT_eye_L4.png"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_49A05934DAD941FC87CCC6F9FE760B60"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\toonmap_defo.bmp"
-            "TargetName" = "8:toonmap_defo.bmp"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4A54AB686B214A9BA90A39BB5C0C5F91"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\tex_tama_frill.tga"
-            "TargetName" = "8:tex_tama_frill.tga"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_4CF19A7BCE890DBC72E67DA2706EA967"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:LibNMeCab, Version=0.0.6.4, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_4CF19A7BCE890DBC72E67DA2706EA967"
-                    {
-                    "Name" = "8:LibNMeCab.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:LibNMeCab.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_6262789C3DA2456FBB22F41E852B8CC0"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4F61C8DBD51349CE9E352C4BC076DCB8"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\tex_VT_eye_R4.png"
-            "TargetName" = "8:tex_VT_eye_R4.png"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5A87BEE68B8F4AE1A06C583E98AEB8D5"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\toonmap_hair_01.bmp"
-            "TargetName" = "8:toonmap_hair_01.bmp"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5F03EC8AC7D0410D9C3321412166E003"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\normal_texture\\tex_pino_pants.png"
-            "TargetName" = "8:tex_pino_pants.png"
-            "Tag" = "8:"
-            "Folder" = "8:_C68EC742BF4742A886756A42C12B0132"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_60275C61CF234A4B9E0606D237E2D4E6"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\tex_pino_tops.png"
-            "TargetName" = "8:tex_pino_tops.png"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7455C37ECF484FD8A67AC37B7C5B62AD"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\tex_pino_pants.png"
-            "TargetName" = "8:tex_pino_pants.png"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7625E9B688D64D8FAE016E7A4ACB005C"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\tex_VT_eye_R3.png"
-            "TargetName" = "8:tex_VT_eye_R3.png"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_827581BA812D4EC0906C27C73E7716B1"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\tex_pino_hair_B.png"
-            "TargetName" = "8:tex_pino_hair_B.png"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_83CF2104FB074A21843295CFE5DA2EA2"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\tex_VT_eye_L3.png"
-            "TargetName" = "8:tex_VT_eye_L3.png"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8F9C22247F494EA3A6540B113826C90C"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\toonmap_pink2.bmp"
-            "TargetName" = "8:toonmap_pink2.bmp"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_95BFBDF083444023A9072A8BA829675B"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\tex_pino_ribbon_F.png"
-            "TargetName" = "8:tex_pino_ribbon_F.png"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_99282F0AEFE64049A36C5B4256D66E63"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\sphere_map_02.bmp"
-            "TargetName" = "8:sphere_map_02.bmp"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_996BF08EBCEE46398B16FC0781ECE037"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\tex_pino_shoes.png"
-            "TargetName" = "8:tex_pino_shoes.png"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B0BDB48A507F479C9DB47251CBC7784B"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\dic\\ipadic\\matrix.bin"
-            "TargetName" = "8:matrix.bin"
-            "Tag" = "8:"
-            "Folder" = "8:_3F1BD6DEF782444C87BCC6ABCA7A87E3"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B6CE15B38986452A9A1D1B465CF208C4"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\tex_pino_eri.tga"
-            "TargetName" = "8:tex_pino_eri.tga"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C29F5220227749F688F18DE7ABC9C1E6"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\dic\\ipadic\\unk.dic"
-            "TargetName" = "8:unk.dic"
-            "Tag" = "8:"
-            "Folder" = "8:_3F1BD6DEF782444C87BCC6ABCA7A87E3"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C5443EEA5B404ABB945216D67BCA01C8"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\tex_pino_skt.png"
-            "TargetName" = "8:tex_pino_skt.png"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C8F6EB9D43964659AD5BC814DBE496A3"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\dic\\ipadic\\dicrc"
-            "TargetName" = "8:dicrc"
-            "Tag" = "8:"
-            "Folder" = "8:_3F1BD6DEF782444C87BCC6ABCA7A87E3"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CAA845D480A5440894D78F30801E9DC6"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\tex_VT_eye_R1.png"
-            "TargetName" = "8:tex_VT_eye_R1.png"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CF002853FE4A4A1294560D8EDA3D7074"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\sphere_map_05.bmp"
-            "TargetName" = "8:sphere_map_05.bmp"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CF340B94B6614620849025FC1D944B84"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\sphere_map_03.bmp"
-            "TargetName" = "8:sphere_map_03.bmp"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D90DAFC763464C7DAB2F00DC4BF8355D"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\Readme.txt"
-            "TargetName" = "8:Readme.txt"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DA4DB4122D4A49FEA8EB4DF72644538F"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\tex_pino_hair_F.tga"
-            "TargetName" = "8:tex_pino_hair_F.tga"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DAF1311098CD4F0781162E62C807164F"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\tex_VT_metal01.png"
-            "TargetName" = "8:tex_VT_metal01.png"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_E2AC086AB3233041B55DA3B0AE05C9AD"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_0082AD6B92CBB061D1288D2C4545F59F"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:System.Net.Http, Version=4.2.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
                 "ScatterAssemblies"
                 {
-                    "_E2AC086AB3233041B55DA3B0AE05C9AD"
+                    "_0082AD6B92CBB061D1288D2C4545F59F"
                     {
                     "Name" = "8:System.Net.Http.dll"
                     "Attributes" = "3:512"
@@ -1430,7 +152,7 @@
             "SourcePath" = "8:System.Net.Http.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
-            "Folder" = "8:_6262789C3DA2456FBB22F41E852B8CC0"
+            "Folder" = "8:_BC6FFFB90F7C428EAE416478B1674D33"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1445,12 +167,23 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E426052B324F41F39B92B388F8A26ABF"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_1220E9964332E42862152B3573A30CC9"
             {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\DxLib.dll"
-            "TargetName" = "8:DxLib.dll"
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:LibNMeCab, Version=0.0.6.4, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_1220E9964332E42862152B3573A30CC9"
+                    {
+                    "Name" = "8:LibNMeCab.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:LibNMeCab.dll"
+            "TargetName" = "8:"
             "Tag" = "8:"
-            "Folder" = "8:_6262789C3DA2456FBB22F41E852B8CC0"
+            "Folder" = "8:_BC6FFFB90F7C428EAE416478B1674D33"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1462,15 +195,26 @@
             "PackageAs" = "3:1"
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E80248F81A0C47C58FFB446899D71911"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_2BB5E37BBBB89870F346DBAF2B8F9198"
             {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\sphere_map_04.bmp"
-            "TargetName" = "8:sphere_map_04.bmp"
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:DxLibDotNet, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_2BB5E37BBBB89870F346DBAF2B8F9198"
+                    {
+                    "Name" = "8:DxLibDotNet.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:DxLibDotNet.dll"
+            "TargetName" = "8:"
             "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
+            "Folder" = "8:_BC6FFFB90F7C428EAE416478B1674D33"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1482,15 +226,26 @@
             "PackageAs" = "3:1"
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E8CC14308DEC468AB7759B3EAE50E67B"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_70B4558FC128939127784CF07874FAFE"
             {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\Pino.pmx"
-            "TargetName" = "8:Pino.pmx"
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_70B4558FC128939127784CF07874FAFE"
+                    {
+                    "Name" = "8:Newtonsoft.Json.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:Newtonsoft.Json.dll"
+            "TargetName" = "8:"
             "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
+            "Folder" = "8:_BC6FFFB90F7C428EAE416478B1674D33"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1502,87 +257,7 @@
             "PackageAs" = "3:1"
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_ED2B9C7A2261477FAB78B9F8DD39EB01"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\toonmap_hair_01B.bmp"
-            "TargetName" = "8:toonmap_hair_01B.bmp"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_EF842C3E5271441EAC09D5F7BD26AA3F"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\tex_VT_eye_L1.png"
-            "TargetName" = "8:tex_VT_eye_L1.png"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F070EB0A99FB4BC289E7B90353FCE93A"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\3DData\\eyeparts.png"
-            "TargetName" = "8:eyeparts.png"
-            "Tag" = "8:"
-            "Folder" = "8:_BB2E42DBA6E74963AACFE6F847344B70"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_FBD12B5AE053444FBC3AF1A1B3805CD2"
-            {
-            "SourcePath" = "8:..\\mayu.AI3\\bin\\Debug\\DxLib_x64.dll"
-            "TargetName" = "8:DxLib_x64.dll"
-            "Tag" = "8:"
-            "Folder" = "8:_6262789C3DA2456FBB22F41E852B8CC0"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
         }
@@ -1591,7 +266,18 @@
         }
         "Folder"
         {
-            "{1525181F-901A-416C-8A58-119130FE478E}:_31E564CA2BAA48E1856F3B524941702F"
+            "{1525181F-901A-416C-8A58-119130FE478E}:_403C68E1FE5C4987BCF63B2C6345ABCD"
+            {
+            "Name" = "8:#1919"
+            "AlwaysCreate" = "11:FALSE"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Property" = "8:ProgramMenuFolder"
+                "Folders"
+                {
+                }
+            }
+            "{1525181F-901A-416C-8A58-119130FE478E}:_A8B1EB04C1EB4A66B395D35E685773AF"
             {
             "Name" = "8:#1916"
             "AlwaysCreate" = "11:FALSE"
@@ -1602,69 +288,14 @@
                 {
                 }
             }
-            "{3C67513D-01DD-4637-8A68-80971EB9504F}:_6262789C3DA2456FBB22F41E852B8CC0"
+            "{3C67513D-01DD-4637-8A68-80971EB9504F}:_BC6FFFB90F7C428EAE416478B1674D33"
             {
-            "DefaultLocation" = "8:[ProgramFiles64Folder][Manufacturer]\\[ProductName]"
+            "DefaultLocation" = "8:[ProgramFilesFolder][Manufacturer]\\[ProductName]"
             "Name" = "8:#1925"
             "AlwaysCreate" = "11:FALSE"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Property" = "8:TARGETDIR"
-                "Folders"
-                {
-                    "{9EF0B969-E518-4E46-987F-47570745A589}:_6FDD0814D11A4A29895E4A28CAC56581"
-                    {
-                    "Name" = "8:dic"
-                    "AlwaysCreate" = "11:FALSE"
-                    "Condition" = "8:"
-                    "Transitive" = "11:FALSE"
-                    "Property" = "8:_4641FDF106F34294B35929085B67BFE9"
-                        "Folders"
-                        {
-                            "{9EF0B969-E518-4E46-987F-47570745A589}:_3F1BD6DEF782444C87BCC6ABCA7A87E3"
-                            {
-                            "Name" = "8:ipadic"
-                            "AlwaysCreate" = "11:FALSE"
-                            "Condition" = "8:"
-                            "Transitive" = "11:FALSE"
-                            "Property" = "8:_9580433105D34343A53564F006612E8C"
-                                "Folders"
-                                {
-                                }
-                            }
-                        }
-                    }
-                    "{9EF0B969-E518-4E46-987F-47570745A589}:_BB2E42DBA6E74963AACFE6F847344B70"
-                    {
-                    "Name" = "8:3DData"
-                    "AlwaysCreate" = "11:FALSE"
-                    "Condition" = "8:"
-                    "Transitive" = "11:FALSE"
-                    "Property" = "8:_6D4AA631B6F74921BDDBFAB079C29B14"
-                        "Folders"
-                        {
-                            "{9EF0B969-E518-4E46-987F-47570745A589}:_C68EC742BF4742A886756A42C12B0132"
-                            {
-                            "Name" = "8:normal_texture"
-                            "AlwaysCreate" = "11:FALSE"
-                            "Condition" = "8:"
-                            "Transitive" = "11:FALSE"
-                            "Property" = "8:_D3F34BBA0C304CC1A932CA098B7FA5DD"
-                                "Folders"
-                                {
-                                }
-                            }
-                        }
-                    }
-                }
-            }
-            "{1525181F-901A-416C-8A58-119130FE478E}:_98D11034475749A890D034A3B2E35E3B"
-            {
-            "Name" = "8:#1919"
-            "AlwaysCreate" = "11:FALSE"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Property" = "8:ProgramMenuFolder"
                 "Folders"
                 {
                 }
@@ -1684,20 +315,20 @@
         "Product"
         {
         "Name" = "8:Microsoft Visual Studio"
-        "ProductName" = "8:mayu.AI3"
-        "ProductCode" = "8:{FA9D0176-DB8B-4DAC-9D90-FC64674C6953}"
-        "PackageCode" = "8:{E81A5382-DD56-4DA6-85F5-5BF360820FF8}"
-        "UpgradeCode" = "8:{B36A3A09-301A-425F-9048-3D6AB0F5AB93}"
+        "ProductName" = "8:Mayu.AI3 Installer"
+        "ProductCode" = "8:{B58047F1-68A1-4A7B-BCAC-DD0A099713DF}"
+        "PackageCode" = "8:{9BC98F15-4B78-4E7C-AF85-F64864FD69C5}"
+        "UpgradeCode" = "8:{4E3C3745-B876-427F-82E1-0F0306BCF275}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:FALSE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:FALSE"
-        "ProductVersion" = "8:1.0.0"
+        "ProductVersion" = "8:3.6.1"
         "Manufacturer" = "8:mayu___cs"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
-        "Title" = "8:mayu.AI3 Installer"
+        "Title" = "8:Mayu.AI3 Installer"
         "Subject" = "8:"
         "ARPCONTACT" = "8:mayu___cs"
         "Keywords" = "8:"
@@ -1707,7 +338,7 @@
         "ARPIconIndex" = "3:0"
         "SearchPath" = "8:"
         "UseSystemSearchPath" = "11:TRUE"
-        "TargetPlatform" = "3:1"
+        "TargetPlatform" = "3:0"
         "PreBuildEvent" = "8:"
         "PostBuildEvent" = "8:"
         "RunPostBuildEvent" = "3:0"
@@ -1718,7 +349,7 @@
             {
                 "Keys"
                 {
-                    "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_BBAC5A48BEAD4D26AFDAAAE25BA65702"
+                    "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_B1793F6CA4744978A8F0B2CDDB183FE5"
                     {
                     "Name" = "8:Software"
                     "Condition" = "8:"
@@ -1727,7 +358,7 @@
                     "Transitive" = "11:FALSE"
                         "Keys"
                         {
-                            "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_400F9FA32DAD4FAEA340B38D7805751A"
+                            "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_3ECDD5CE38174120B614D0C1AAC99C6E"
                             {
                             "Name" = "8:[Manufacturer]"
                             "Condition" = "8:"
@@ -1752,7 +383,7 @@
             {
                 "Keys"
                 {
-                    "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_97860693A00F4F5EB71BB6EE7AD3C07A"
+                    "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_B38457234DD847B8AD07EA7EF1C01F31"
                     {
                     "Name" = "8:Software"
                     "Condition" = "8:"
@@ -1761,7 +392,7 @@
                     "Transitive" = "11:FALSE"
                         "Keys"
                         {
-                            "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_B3C20C9340264EA2B67D0B45FCBFDC2C"
+                            "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_2EE36CDF4A824F84ACC90D40E8D22683"
                             {
                             "Name" = "8:[Manufacturer]"
                             "Condition" = "8:"
@@ -1806,37 +437,75 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_8EEAB02F6ABB403AB1E9EC11CA6D9AF8"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_4B01D43BD2AA4DD7B1844E705BD1B3E9"
             {
-            "Name" = "8:mayu.AI3"
+            "Name" = "8:Mayu.AI3"
             "Arguments" = "8:"
             "Description" = "8:"
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_85339EA306A849C4B5F54EF9BB461884"
-            "Folder" = "8:_31E564CA2BAA48E1856F3B524941702F"
-            "WorkingFolder" = "8:_6262789C3DA2456FBB22F41E852B8CC0"
+            "Target" = "8:_38BFE1B7EEA74878B295DF150CCDE4B8"
+            "Folder" = "8:_A8B1EB04C1EB4A66B395D35E685773AF"
+            "WorkingFolder" = "8:_BC6FFFB90F7C428EAE416478B1674D33"
             "Icon" = "8:"
             "Feature" = "8:"
             }
         }
         "UserInterface"
         {
-            "{2479F3F5-0309-486D-8047-8187E2CE5BA0}:_0B582A3493A445169752B211F49066C8"
+            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_0E8C06772F7E4A9BA4763298EF7E8E3A"
             {
-            "UseDynamicProperties" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "SourcePath" = "8:<VsdDialogDir>\\VsdUserInterface.wim"
+            "Name" = "8:#1901"
+            "Sequence" = "3:2"
+            "Attributes" = "3:2"
+                "Dialogs"
+                {
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_40233893C6A1421D87C0FE1738487700"
+                    {
+                    "Sequence" = "3:100"
+                    "DisplayName" = "8:進行状況"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdAdminProgressDlg.wid"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "ShowProgress"
+                            {
+                            "Name" = "8:ShowProgress"
+                            "DisplayName" = "8:#1009"
+                            "Description" = "8:#1109"
+                            "Type" = "3:5"
+                            "ContextData" = "8:1;True=1;False=0"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:0"
+                            "Value" = "3:1"
+                            "DefaultValue" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                }
             }
-            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_323238F718CD4DB0A2B24CE44E6AB273"
+            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_32595DB6BBBC4FB4A746DEF275EA6AFD"
             {
             "Name" = "8:#1900"
             "Sequence" = "3:1"
             "Attributes" = "3:1"
                 "Dialogs"
                 {
-                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_579467C377EA478FB540764FA77A4AB9"
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_63ACF24DABC64E0789DC6E82D42CF2EC"
                     {
                     "Sequence" = "3:100"
                     "DisplayName" = "8:ようこそ"
@@ -1884,7 +553,7 @@
                             }
                         }
                     }
-                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_86786DEE237749B6B67DC5A2019F095B"
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_67BB3473BE3A40C0894AE5BCA443BB50"
                     {
                     "Sequence" = "3:200"
                     "DisplayName" = "8:インストール フォルダー"
@@ -1919,7 +588,7 @@
                             }
                         }
                     }
-                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_B00EA4AD8AE347C988CF4F7CDC962BF9"
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_F35B93A601AD4E3EB5242398A9DF0C61"
                     {
                     "Sequence" = "3:300"
                     "DisplayName" = "8:インストールの確認"
@@ -1943,64 +612,20 @@
                     }
                 }
             }
-            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_3653E89583484CC18CFADED9DF5C2A09"
-            {
-            "Name" = "8:#1902"
-            "Sequence" = "3:1"
-            "Attributes" = "3:3"
-                "Dialogs"
-                {
-                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_A8F943BB19B74E8AA4247769305FDB51"
-                    {
-                    "Sequence" = "3:100"
-                    "DisplayName" = "8:完了"
-                    "UseDynamicProperties" = "11:TRUE"
-                    "IsDependency" = "11:FALSE"
-                    "SourcePath" = "8:<VsdDialogDir>\\VsdFinishedDlg.wid"
-                        "Properties"
-                        {
-                            "BannerBitmap"
-                            {
-                            "Name" = "8:BannerBitmap"
-                            "DisplayName" = "8:#1001"
-                            "Description" = "8:#1101"
-                            "Type" = "3:8"
-                            "ContextData" = "8:Bitmap"
-                            "Attributes" = "3:4"
-                            "Setting" = "3:1"
-                            "UsePlugInResources" = "11:TRUE"
-                            }
-                            "UpdateText"
-                            {
-                            "Name" = "8:UpdateText"
-                            "DisplayName" = "8:#1058"
-                            "Description" = "8:#1158"
-                            "Type" = "3:15"
-                            "ContextData" = "8:"
-                            "Attributes" = "3:0"
-                            "Setting" = "3:1"
-                            "Value" = "8:#1258"
-                            "DefaultValue" = "8:#1258"
-                            "UsePlugInResources" = "11:TRUE"
-                            }
-                        }
-                    }
-                }
-            }
-            "{2479F3F5-0309-486D-8047-8187E2CE5BA0}:_529EF609CDEC4F3684410AAD4B399776"
+            "{2479F3F5-0309-486D-8047-8187E2CE5BA0}:_44ADDE18EEA74076BC91FB531482453B"
             {
             "UseDynamicProperties" = "11:FALSE"
             "IsDependency" = "11:FALSE"
             "SourcePath" = "8:<VsdDialogDir>\\VsdBasicDialogs.wim"
             }
-            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_7AC0BBAE016648138DC275870262C46A"
+            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_4C9ADF5F8BED4C52A066C913A0CF9C80"
             {
             "Name" = "8:#1900"
             "Sequence" = "3:2"
             "Attributes" = "3:1"
                 "Dialogs"
                 {
-                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_2E2DD577545548618BF04C8D0C9F18A0"
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_13CEAFC666584228936FAF7FCC176C00"
                     {
                     "Sequence" = "3:100"
                     "DisplayName" = "8:ようこそ"
@@ -2048,7 +673,7 @@
                             }
                         }
                     }
-                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_5C0411128AC24A979B34BF72ED1ACB90"
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_2FF7EBACABB949A38AABB821CA3B947A"
                     {
                     "Sequence" = "3:300"
                     "DisplayName" = "8:インストールの確認"
@@ -2070,7 +695,7 @@
                             }
                         }
                     }
-                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_F88E05393F024D8B8B1A0993206665DC"
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_716B176E620049DBA386CCEA20BCCAB2"
                     {
                     "Sequence" = "3:200"
                     "DisplayName" = "8:インストール フォルダー"
@@ -2094,64 +719,20 @@
                     }
                 }
             }
-            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_8B78B576E8E94A2688B4503E76B3CB41"
-            {
-            "Name" = "8:#1901"
-            "Sequence" = "3:2"
-            "Attributes" = "3:2"
-                "Dialogs"
-                {
-                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_65BB65BF963441259BD0E15F44183982"
-                    {
-                    "Sequence" = "3:100"
-                    "DisplayName" = "8:進行状況"
-                    "UseDynamicProperties" = "11:TRUE"
-                    "IsDependency" = "11:FALSE"
-                    "SourcePath" = "8:<VsdDialogDir>\\VsdAdminProgressDlg.wid"
-                        "Properties"
-                        {
-                            "BannerBitmap"
-                            {
-                            "Name" = "8:BannerBitmap"
-                            "DisplayName" = "8:#1001"
-                            "Description" = "8:#1101"
-                            "Type" = "3:8"
-                            "ContextData" = "8:Bitmap"
-                            "Attributes" = "3:4"
-                            "Setting" = "3:1"
-                            "UsePlugInResources" = "11:TRUE"
-                            }
-                            "ShowProgress"
-                            {
-                            "Name" = "8:ShowProgress"
-                            "DisplayName" = "8:#1009"
-                            "Description" = "8:#1109"
-                            "Type" = "3:5"
-                            "ContextData" = "8:1;True=1;False=0"
-                            "Attributes" = "3:0"
-                            "Setting" = "3:0"
-                            "Value" = "3:1"
-                            "DefaultValue" = "3:1"
-                            "UsePlugInResources" = "11:TRUE"
-                            }
-                        }
-                    }
-                }
-            }
-            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_9737312E1DFB4B6994E81C0F7CC8B319"
+            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_53834C6124934A61A6D036DDC727CA44"
             {
             "Name" = "8:#1902"
-            "Sequence" = "3:2"
+            "Sequence" = "3:1"
             "Attributes" = "3:3"
                 "Dialogs"
                 {
-                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_A57BFEC9567A4427B81125CEA9F8AE8B"
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_5BF757645059432AB51234C9CD09CAD6"
                     {
                     "Sequence" = "3:100"
                     "DisplayName" = "8:完了"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
-                    "SourcePath" = "8:<VsdDialogDir>\\VsdAdminFinishedDlg.wid"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdFinishedDlg.wid"
                         "Properties"
                         {
                             "BannerBitmap"
@@ -2165,18 +746,31 @@
                             "Setting" = "3:1"
                             "UsePlugInResources" = "11:TRUE"
                             }
+                            "UpdateText"
+                            {
+                            "Name" = "8:UpdateText"
+                            "DisplayName" = "8:#1058"
+                            "Description" = "8:#1158"
+                            "Type" = "3:15"
+                            "ContextData" = "8:"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:1"
+                            "Value" = "8:#1258"
+                            "DefaultValue" = "8:#1258"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
                         }
                     }
                 }
             }
-            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_BADBE30208B546E0A2619FD92D558A45"
+            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_BC5935481BE1456385C50A6D5A26EA5C"
             {
             "Name" = "8:#1901"
             "Sequence" = "3:1"
             "Attributes" = "3:2"
                 "Dialogs"
                 {
-                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_FD2C4E86DAC2463FBE29C28011B66E4C"
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_5FA5061A41934DE2A83D4F21D0C0C216"
                     {
                     "Sequence" = "3:100"
                     "DisplayName" = "8:進行状況"
@@ -2213,46 +807,55 @@
                     }
                 }
             }
+            "{2479F3F5-0309-486D-8047-8187E2CE5BA0}:_D776187A370345F1B9619F8FB5A3031F"
+            {
+            "UseDynamicProperties" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "SourcePath" = "8:<VsdDialogDir>\\VsdUserInterface.wim"
+            }
+            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_EB84AD806A024900A34161A24432FDE8"
+            {
+            "Name" = "8:#1902"
+            "Sequence" = "3:2"
+            "Attributes" = "3:3"
+                "Dialogs"
+                {
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_8E66C49C69014D27A2A39BDED19BFED5"
+                    {
+                    "Sequence" = "3:100"
+                    "DisplayName" = "8:完了"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdAdminFinishedDlg.wid"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                }
+            }
         }
         "MergeModule"
         {
         }
         "ProjectOutput"
         {
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_7A3360906CF245E5A5159BA845414355"
-            {
-            "SourcePath" = "8:"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_6262789C3DA2456FBB22F41E852B8CC0"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:"
-            "OutputGroupCanonicalName" = "8:ContentFiles"
-            "OutputProjectGuid" = "8:{978A3BE5-FDB9-4BCD-9517-37047B982789}"
-            "ShowKeyOutput" = "11:TRUE"
-                "ExcludeFilters"
-                {
-                }
-            }
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_85339EA306A849C4B5F54EF9BB461884"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_38BFE1B7EEA74878B295DF150CCDE4B8"
             {
             "SourcePath" = "8:..\\mayu.AI3\\obj\\Debug\\mayu.AI3.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
-            "Folder" = "8:_6262789C3DA2456FBB22F41E852B8CC0"
+            "Folder" = "8:_BC6FFFB90F7C428EAE416478B1674D33"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
