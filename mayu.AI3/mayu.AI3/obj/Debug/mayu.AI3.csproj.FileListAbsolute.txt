@@ -13,3 +13,4 @@ E:\Dev\GitHub\mayu.AI3\mayu.AI3\mayu.AI3\obj\Debug\mayu.AI3.csproj.CopyComplete
 E:\Dev\GitHub\mayu.AI3\mayu.AI3\mayu.AI3\bin\Debug\Newtonsoft.Json.dll
 E:\Dev\GitHub\mayu.AI3\mayu.AI3\mayu.AI3\bin\Debug\Newtonsoft.Json.xml
 E:\Dev\GitHub\mayu.AI3\mayu.AI3\mayu.AI3\bin\Debug\Microsoft.Speech.dll
+E:\Dev\GitHub\mayu.AI3\mayu.AI3\mayu.AI3\obj\Debug\mayu.AI3.csproj.CoreCompileInputs.cache
