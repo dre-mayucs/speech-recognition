@@ -1,5 +1,8 @@
+# 注意
+Speechの音声認識機能で遊んでいたもでTwitterに乗せているもののビジュアルと一部機能だけ乗っている感じです
+
 # mayu.AI3
-mayu.AI is Speech recognition and 3DGraphics Assistant AI.  
+mayu.AI is Speech recognition and 3DGraphics Assistant AI.
 ### System  
 ***OS***  : Windows10  
 ***CPU*** : Intel Core i5-6600K/AMD Ryzen5 1600 or better  
