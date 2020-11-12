@@ -13,4 +13,4 @@ mayu.AI is Speech recognition and 3DGraphics Assistant AI.
 ***MEM*** : 8GB RAM(DDR4 16GB recommendation)  
 ***Network*** : Broadband Internet access
   
-(c)mayu___cs 2019
+(c)2020 わんころメソッド();
