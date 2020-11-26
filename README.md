@@ -7,9 +7,9 @@ mayu.AI3
 ├　mayu.AI3  
 　　├ bin  
 　　　　├ Debug  
-　　　　│  ├3DData  
-　　　　│    ├ Model.pmx <- MMDモデル(名前はModelにしてください)  
-　　　　│    ├ Model000.vmd <- モーションデータ(名前はModel+アニメーション再生番号にしてください)  
+　　　　│　　├3DData  
+　　　　│　　├ Model.pmx <- MMDモデル(名前はModelにしてください)  
+　　　　│　　├ Model000.vmd <- モーションデータ(名前はModel+アニメーション再生番号にしてください)  
 　　　　│  
 　　　　├ Release (実行するとexeファイルが生成されるのでDebugと同じフォルダ構造にしてください)  
   
