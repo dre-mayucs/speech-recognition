@@ -3,6 +3,7 @@ Speechの音声認識機能で遊んでいたもでTwitterに乗せているも�
 ~~publicリポジトリにした権利関係で一時的に削除しました。~~    
 ~~2次配布可能なモデルを見つけ次第こちらで格納させていただきます。~~  
 3DDataファイルにpmxモデルとvmdデータを格納してください。  
+```
 mayu.AI3  
 ├　mayu.AI3  
 　　├ bin  
@@ -12,7 +13,7 @@ mayu.AI3
 　　　　│　　├ Model000.vmd <- モーションデータ(名前はModel+アニメーション再生番号にしてください)  
 　　　　│  
 　　　　├ Release (実行するとexeファイルが生成されるのでDebugと同じフォルダ構造にしてください)  
-  
+```  
 # Speech-recognition
 mayu.AI is Speech recognition and 3DGraphics Assistant AI.
 ### System  
