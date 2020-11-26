@@ -1,4 +1,5 @@
-![コードサイズ](https://img.shields.io/github/languages/code-size/mayu-cs/speech-recognition)  
+![コードサイズ](https://img.shields.io/github/languages/code-size/mayu-cs/speech-recognition)
+![言語](https://img.shields.io/badge/Language-C%23-blue)
 # 注意
 Speechの音声認識機能で遊んでいたもでTwitterに乗せているもののビジュアルと一部機能だけ乗っている感じです  
 ~~publicリポジトリにした権利関係で一時的に削除しました。~~    
