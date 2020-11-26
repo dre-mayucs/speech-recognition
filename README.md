@@ -1,3 +1,4 @@
+https://img.shields.io/github/languages/code-size/mayu-cs/speech-recognition  
 # 注意
 Speechの音声認識機能で遊んでいたもでTwitterに乗せているもののビジュアルと一部機能だけ乗っている感じです  
 ~~publicリポジトリにした権利関係で一時的に削除しました。~~    
