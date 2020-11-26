@@ -54,7 +54,7 @@ namespace mayu.AI3
             DX.SetDrawScreen(DX.DX_SCREEN_BACK);
 
             //モデルデータ読み込み
-            pmxmodel = DX.MV1LoadModel("3DData/Pino.pmx");
+            pmxmodel = DX.MV1LoadModel("3DData/Model.pmx");
 
             //vmdモーションデータ読み込み
             Index = DX.MV1AttachAnim(pmxmodel, 0, -1, DX.FALSE);
